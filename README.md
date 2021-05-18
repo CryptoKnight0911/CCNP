@@ -12,6 +12,3 @@ I hope CCNP & Python is as fun as CCNA was. Let's get it done!!
 
 Just hit the View Project on Github and find the file/project. You will need packet tracer and VScode to view most files. 
 
-
-
-[Editor on GitHub](https://github.com/CryptoKnight0911/CCNP/edit/main/README.md)
