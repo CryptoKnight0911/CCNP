@@ -1,4 +1,4 @@
-Well I guess today is day 1 for studying for CCNP. May 18th 2021! I'll try to make the labs more organized and challenging with better instructions. My CCNA labs were just hit it and quit it. I didn't start doing the how and why until the end. Let's see if I can make better labs for us!!!
+Well I guess today is day 1 for studying for CCNP. May 18th 2021! I'll try to make the labs more organized and challenging with better instructions. My CCNA labs were just hit it and quit it. I didn't start doing the how and why until the end. Let's see if I can make better labs for us!!! If you want to see what I'm talking about https://cryptoknight0911.github.io/Projects/
 
 
 I'm also going to be putting my Python Labs on here as well as any 
